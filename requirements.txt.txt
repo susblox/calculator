@@ -1,0 +1,2 @@
+you need thess:  pygame
+ pyttsx3
